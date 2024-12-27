@@ -5,7 +5,7 @@ A collection of papers about data fusion and data driven in social science.
 | Paper | Author | Summary | Link |
 | -------- | --- |-------- |--|
 | Foundations of Mixed Methods Research(Book) | Charles Teddlie, Abbas Tashakkori | Discusses different research designs for mixed-methods studies and methodological issues |   |
-| Data integration in biological research: an overview  | Vasileios Lapatas et al.| Conceptual overview of integrating different data sources in biological science | (URL)[10.1186/s40709-015-0032-5]|
+| Data integration in biological research: an overview  | Vasileios Lapatas et al.| Conceptual overview of integrating different data sources in biological science | (git)[10.1186/s40709-015-0032-5]|
 | Computational social science: Obstacles and opportunities |  Lazer et al. | Addresses the challenges of using diverse data sources in social science, including issues of bias, representation, and validity |  |
 
 # Research Design using Data Integration
